@@ -1,6 +1,6 @@
 # Interactuando con la API de Spotify
 
-Spotify se puede utilizar como fuente de datos para varios proyectos de ciencia de datos. En este ejercicio, aprenderemos a interactuar con la API de esta red social. `Spotipy` es una librería de código abierto y para Python que permite hacer un uso a alto nivel de la API de Spotify.
+Spotify se puede utilizar como fuente de datos para varios proyectos de ciencia de datos. En este ejercicio, aprenderemos a interactuar con la API de esta red social. `Spotify` es una librería de código abierto y para Python que permite hacer un uso a alto nivel de la API de Spotify.
 
 ## Paso 1: Crear una cuenta de desarrollador de Spotify
 
@@ -18,10 +18,10 @@ Una vez creada la app, dirígete a la sección **Settings** para copiar tu `Clie
 
 ## Paso 2: Configuración inicial
 
-- Abre la terminal y asegúrate de tener instalada la librería `Spotipy`, que es la que usaremos para conectarnos con la API de Spotify:
+- Abre la terminal y asegúrate de tener instalada la librería `Spotify`, que es la que usaremos para conectarnos con la API de Spotify:
 
     ```bash
-    pip install spotipy
+    pip install spotify
     ```
 
 ## Paso 3: Variables de entorno
